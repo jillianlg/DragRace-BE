@@ -1,1048 +1,1210 @@
 {
-  "Season 1": [
-    {
-      "contestant": "BeBe Zahara Benet",
-      "age": "28",
-      "hometown": "Minneapolis, Minnesota [a]",
-      "ranking": "Winner"
-    },
-    {
-      "contestant": "Nina Flowers",
-      "age": "34",
-      "hometown": "Denver, Colorado [b]",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Rebecca Glasscock",
-      "age": "26",
-      "hometown": "Fort Lauderdale, Florida",
-      "ranking": "3rd"
-    },
-    {
-      "contestant": "Shannel",
-      "age": "26",
-      "hometown": "Las Vegas, Nevada",
-      "ranking": "4th"
-    },
-    {
-      "contestant": "Ongina",
-      "age": "26",
-      "hometown": "Los Angeles, California",
-      "ranking": "5th"
-    },
-    {
-      "contestant": "Jade[c]",
-      "age": "32",
-      "hometown": "Chicago, Illinois",
-      "ranking": "6th"
-    },
-    {
-      "contestant": "Akashia",
-      "age": "32",
-      "hometown": "Cleveland, Ohio",
-      "ranking": "7th"
-    },
-    {
-      "contestant": "Tammie Brown",
-      "age": "28",
-      "hometown": "Los Angeles, California",
-      "ranking": "8th"
-    },
-    {
-      "contestant": "Victoria \"Porkchop\" Parker",
-      "age": "39",
-      "hometown": "Raleigh, North Carolina",
-      "ranking": "9th"
-    }
-  ],
-  "Season 2": [
-    {
-      "contestant": "Tyra Sanchez",
-      "age": "21",
-      "hometown": "Orlando, Florida",
-      "ranking": "Winner"
-    },
-    {
-      "contestant": "Raven",
-      "age": "30",
-      "hometown": "Riverside, California",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Jujubee",
-      "age": "25",
-      "hometown": "Boston, Massachusetts",
-      "ranking": "3rd"
-    },
-    {
-      "contestant": "Tatianna",
-      "age": "21",
-      "hometown": "Falls Church, Virginia",
-      "ranking": "4th"
-    },
-    {
-      "contestant": "Pandora Boxx",
-      "age": "37",
-      "hometown": "Rochester, New York",
-      "ranking": "5th"
-    },
-    {
-      "contestant": "Jessica Wild",
-      "age": "29",
-      "hometown": "San Juan, Puerto Rico",
-      "ranking": "6th"
-    },
-    {
-      "contestant": "Sahara Davenport†",
-      "age": "25",
-      "hometown": "New York City, New York",
-      "ranking": "7th"
-    },
-    {
-      "contestant": "Morgan McMichaels",
-      "age": "28",
-      "hometown": "Mira Loma, California",
-      "ranking": "8th"
-    },
-    {
-      "contestant": "Sonique",
-      "age": "26",
-      "hometown": "Atlanta, Georgia",
-      "ranking": "9th"
-    },
-    {
-      "contestant": "Mystique Summers Madison",
-      "age": "25",
-      "hometown": "Chicago, Illinois",
-      "ranking": "10th"
-    },
-    {
-      "contestant": "Nicole Paige Brooks",
-      "age": "36",
-      "hometown": "Atlanta, Georgia",
-      "ranking": "11th"
-    },
-    {
-      "contestant": "Shangela",
-      "age": "28",
-      "hometown": "Paris, Texas",
-      "ranking": "12th"
-    }
-  ],
-  "Season 3": [
-    {
-      "contestant": "Raja",
-      "age": "36",
-      "hometown": "Los Angeles, California",
-      "ranking": "Winner"
-    },
-    {
-      "contestant": "Manila Luzon",
-      "age": "28",
-      "hometown": "Cottage Grove, Minnesota",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Alexis Mateo",
-      "age": "30",
-      "hometown": "Tampa, Florida",
-      "ranking": "3rd"
-    },
-    {
-      "contestant": "Yara Sofia",
-      "age": "26",
-      "hometown": "Manatí, Puerto Rico",
-      "ranking": "4th"
-    },
-    {
-      "contestant": "Carmen Carrera",
-      "age": "25",
-      "hometown": "Elmwood Park, New Jersey",
-      "ranking": "5th[d]"
-    },
-    {
-      "contestant": "Shangela",
-      "age": "29",
-      "hometown": "Paris, Texas",
-      "ranking": "6th"
-    },
-    {
-      "contestant": "Delta Work",
-      "age": "34",
-      "hometown": "Norwalk, California",
-      "ranking": "7th"
-    },
-    {
-      "contestant": "Stacy Layne Matthews",
-      "age": "25",
-      "hometown": "Back Swamp, North Carolina",
-      "ranking": "8th"
-    },
-    {
-      "contestant": "Mariah[e]",
-      "age": "29",
-      "hometown": "Atlanta, Georgia",
-      "ranking": "9th"
-    },
-    {
-      "contestant": "India Ferrah",
-      "age": "23",
-      "hometown": "Dayton, Ohio",
-      "ranking": "10th"
-    },
-    {
-      "contestant": "Mimi Imfurst",
-      "age": "27",
-      "hometown": "New York, New York",
-      "ranking": "11th"
-    },
-    {
-      "contestant": "Phoenix",
-      "age": "29",
-      "hometown": "Atlanta, Georgia",
-      "ranking": "12th"
-    },
-    {
-      "contestant": "Venus D-Lite",
-      "age": "26",
-      "hometown": "Los Angeles, California",
-      "ranking": "13th"
-    }
-  ],
-  "Season 4": [
-    {
-      "contestant": "Sharon Needles",
-      "age": "29",
-      "hometown": "Pittsburgh, Pennsylvania",
-      "ranking": "Winner"
-    },
-    {
-      "contestant": "Chad Michaels",
-      "age": "40",
-      "hometown": "San Diego, California",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Phi Phi O'Hara",
-      "age": "25",
-      "hometown": "Chicago, Illinois",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Latrice Royale",
-      "age": "39",
-      "hometown": "Miami Beach, Florida",
-      "ranking": "4th"
-    },
-    {
-      "contestant": "Kenya Michaels",
-      "age": "21",
-      "hometown": "Dorado, Puerto Rico",
-      "ranking": "5th[f]"
-    },
-    {
-      "contestant": "DiDa Ritz",
-      "age": "25",
-      "hometown": "Chicago, Illinois",
-      "ranking": "6th"
-    },
-    {
-      "contestant": "Willam",
-      "age": "29",
-      "hometown": "Los Angeles, California",
-      "ranking": "Disqualified[g]"
-    },
-    {
-      "contestant": "Jiggly Caliente",
-      "age": "30",
-      "hometown": "Queens, New York",
-      "ranking": "7th"
-    },
-    {
-      "contestant": "Milan",
-      "age": "36",
-      "hometown": "Florence, South Carolina",
-      "ranking": "8th"
-    },
-    {
-      "contestant": "Madame LaQueer",
-      "age": "29",
-      "hometown": "Carolina, Puerto Rico",
-      "ranking": "9th"
-    },
-    {
-      "contestant": "The Princess",
-      "age": "32",
-      "hometown": "Chicago, Illinois",
-      "ranking": "10th"
-    },
-    {
-      "contestant": "Lashauwn Beyond",
-      "age": "21",
-      "hometown": "Fort Lauderdale, Florida",
-      "ranking": "11th"
-    },
-    {
-      "contestant": "Alisa Summers",
-      "age": "23",
-      "hometown": "Tampa, Florida",
-      "ranking": "12th"
-    }
-  ],
-  "Season 5": [
-    {
-      "contestant": "Jinkx Monsoon",
-      "age": "24",
-      "hometown": "Seattle, Washington",
-      "ranking": "Winner"
-    },
-    {
-      "contestant": "Alaska[h]",
-      "age": "27",
-      "hometown": "Pittsburgh, Pennsylvania",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Roxxxy Andrews",
-      "age": "28",
-      "hometown": "Orlando, Florida",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Detox[i]",
-      "age": "27",
-      "hometown": "Los Angeles, California",
-      "ranking": "4th"
-    },
-    {
-      "contestant": "Coco Montrese",
-      "age": "37",
-      "hometown": "Las Vegas, Nevada",
-      "ranking": "5th"
-    },
-    {
-      "contestant": "Alyssa Edwards",
-      "age": "32",
-      "hometown": "Mesquite, Texas",
-      "ranking": "6th"
-    },
-    {
-      "contestant": "Ivy Winters",
-      "age": "26",
-      "hometown": "New York City, New York",
-      "ranking": "7th"
-    },
-    {
-      "contestant": "Jade Jolie",
-      "age": "25",
-      "hometown": "Gainesville, Florida",
-      "ranking": "8th"
-    },
-    {
-      "contestant": "Lineysha Sparx",
-      "age": "24",
-      "hometown": "San Juan, Puerto Rico",
-      "ranking": "9th"
-    },
-    {
-      "contestant": "Vivienne Pinay",
-      "age": "26",
-      "hometown": "New York City, New York",
-      "ranking": "10th/11th"
-    },
-    {
-      "contestant": "Honey Mahogany",
-      "age": "29",
-      "hometown": "San Francisco, California",
-      "ranking": "10th/11th"
-    },
-    {
-      "contestant": "Monica Beverly Hillz",
-      "age": "27",
-      "hometown": "Owensboro, Kentucky",
-      "ranking": "12th"
-    },
-    {
-      "contestant": "Serena ChaCha",
-      "age": "21",
-      "hometown": "Tallahassee, Florida",
-      "ranking": "13th"
-    },
-    {
-      "contestant": "Penny Tration",
-      "age": "39",
-      "hometown": "Cincinnati, Ohio",
-      "ranking": "14th"
-    }
-  ],
-  "Season 6": [
-    {
-      "contestant": "Bianca Del Rio",
-      "age": "37",
-      "hometown": "New Orleans, Louisiana",
-      "ranking": "Winner"
-    },
-    {
-      "contestant": "Adore Delano",
-      "age": "23",
-      "hometown": "Azusa, California",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Courtney Act",
-      "age": "31",
-      "hometown": "West Hollywood, California [j]",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Darienne Lake[k]",
-      "age": "41",
-      "hometown": "Rochester, New York",
-      "ranking": "4th"
-    },
-    {
-      "contestant": "BenDeLaCreme",
-      "age": "31",
-      "hometown": "Seattle, Washington",
-      "ranking": "5th"
-    },
-    {
-      "contestant": "Joslyn Fox",
-      "age": "26",
-      "hometown": "Worcester, Massachusetts",
-      "ranking": "6th"
-    },
-    {
-      "contestant": "Trinity K. Bonet[l]",
-      "age": "22",
-      "hometown": "Atlanta, Georgia",
-      "ranking": "7th"
-    },
-    {
-      "contestant": "Laganja Estranja",
-      "age": "24",
-      "hometown": "Van Nuys, California",
-      "ranking": "8th"
-    },
-    {
-      "contestant": "Milk",
-      "age": "25",
-      "hometown": "New York, New York",
-      "ranking": "9th"
-    },
-    {
-      "contestant": "Gia Gunn",
-      "age": "23",
-      "hometown": "Chicago, Illinois",
-      "ranking": "10th"
-    },
-    {
-      "contestant": "April Carrión",
-      "age": "24",
-      "hometown": "Guaynabo, Puerto Rico",
-      "ranking": "11th"
-    },
-    {
-      "contestant": "Vivacious",
-      "age": "40",
-      "hometown": "New York City, New York",
-      "ranking": "12th"
-    },
-    {
-      "contestant": "Magnolia Crawford",
-      "age": "27",
-      "hometown": "Seattle, Washington",
-      "ranking": "13th/14th[m]"
-    },
-    {
-      "contestant": "Kelly Mantle",
-      "age": "37",
-      "hometown": "Los Angeles, California",
-      "ranking": "13th/14th[m]"
-    }
-  ],
-  "Season 7": [
-    {
-      "contestant": "Violet Chachki",
-      "age": "22",
-      "hometown": "Atlanta, Georgia",
-      "ranking": "Winner"
-    },
-    {
-      "contestant": "Ginger Minj",
-      "age": "29",
-      "hometown": "Orlando, Florida",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Pearl",
-      "age": "23",
-      "hometown": "Brooklyn, New York",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Kennedy Davenport",
-      "age": "33",
-      "hometown": "Dallas, Texas",
-      "ranking": "4th"
-    },
-    {
-      "contestant": "Katya[n]",
-      "age": "32",
-      "hometown": "Boston, Massachusetts",
-      "ranking": "5th"
-    },
-    {
-      "contestant": "Trixie Mattel",
-      "age": "26",
-      "hometown": "Milwaukee, Wisconsin",
-      "ranking": "6th[o]"
-    },
-    {
-      "contestant": "Miss Fame",
-      "age": "29",
-      "hometown": "New York City, New York",
-      "ranking": "7th"
-    },
-    {
-      "contestant": "Jaidynn Diore Fierce",
-      "age": "25",
-      "hometown": "Nashville, Tennessee",
-      "ranking": "8th"
-    },
-    {
-      "contestant": "Max",
-      "age": "22",
-      "hometown": "Hudson, Wisconsin",
-      "ranking": "9th"
-    },
-    {
-      "contestant": "Kandy Ho",
-      "age": "28",
-      "hometown": "Cayey, Puerto Rico",
-      "ranking": "10th"
-    },
-    {
-      "contestant": "Mrs. Kasha Davis",
-      "age": "43",
-      "hometown": "Rochester, New York",
-      "ranking": "11th"
-    },
-    {
-      "contestant": "Jasmine Masters",
-      "age": "37",
-      "hometown": "Los Angeles, California",
-      "ranking": "12th"
-    },
-    {
-      "contestant": "Sasha Belle",
-      "age": "28",
-      "hometown": "Iowa City, Iowa",
-      "ranking": "13th"
-    },
-    {
-      "contestant": "Tempest DuJour",
-      "age": "46",
-      "hometown": "Tucson, Arizona",
-      "ranking": "14th"
-    }
-  ],
-  "Season 8": [
-    {
-      "contestant": "Bob the Drag Queen",
-      "age": "29",
-      "hometown": "Brooklyn, New York",
-      "ranking": "Winner"
-    },
-    {
-      "contestant": "Kim Chi",
-      "age": "27",
-      "hometown": "Chicago, Illinois",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Naomi Smalls",
-      "age": "21",
-      "hometown": "Redlands, California",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Chi Chi DeVayne† [p]",
-      "age": "30",
-      "hometown": "Shreveport, Louisiana",
-      "ranking": "4th"
-    },
-    {
-      "contestant": "Derrick Barry",
-      "age": "32",
-      "hometown": "Las Vegas, Nevada",
-      "ranking": "5th"
-    },
-    {
-      "contestant": "Thorgy Thor",
-      "age": "31",
-      "hometown": "Brooklyn, New York",
-      "ranking": "6th"
-    },
-    {
-      "contestant": "Robbie Turner",
-      "age": "33",
-      "hometown": "Seattle, Washington",
-      "ranking": "7th"
-    },
-    {
-      "contestant": "Acid Betty",
-      "age": "37",
-      "hometown": "Brooklyn, New York",
-      "ranking": "8th"
-    },
-    {
-      "contestant": "Naysha Lopez",
-      "age": "31",
-      "hometown": "Chicago, Illinois",
-      "ranking": "9th[q]"
-    },
-    {
-      "contestant": "Cynthia Lee Fontaine",
-      "age": "34",
-      "hometown": "Austin, Texas",
-      "ranking": "10th"
-    },
-    {
-      "contestant": "Dax ExclamationPoint",
-      "age": "31",
-      "hometown": "Savannah, Georgia",
-      "ranking": "11th/12th"
-    },
-    {
-      "contestant": "Laila McQueen",
-      "age": "22",
-      "hometown": "Gloucester, Massachusetts",
-      "ranking": "11th/12th"
-    }
-  ],
-  "Season 9": [
-    {
-      "contestant": "Sasha Velour",
-      "age": "29",
-      "hometown": "Brooklyn, New York",
-      "ranking": "Winner"
-    },
-    {
-      "contestant": "Peppermint",
-      "age": "37",
-      "hometown": "New York City, New York",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Shea Couleé",
-      "age": "27",
-      "hometown": "Chicago, Illinois",
-      "ranking": "3rd/4th"
-    },
-    {
-      "contestant": "Trinity \"The Tuck\" Taylor",
-      "age": "31",
-      "hometown": "Orlando, Florida",
-      "ranking": "3rd/4th"
-    },
-    {
-      "contestant": "Alexis Michelle",
-      "age": "33",
-      "hometown": "New York City, New York",
-      "ranking": "5th"
-    },
-    {
-      "contestant": "Nina Bo'nina Brown",
-      "age": "34",
-      "hometown": "Georgetown, South Carolina",
-      "ranking": "6th"
-    },
-    {
-      "contestant": "Valentina",
-      "age": "25",
-      "hometown": "Los Angeles, California",
-      "ranking": "7th"
-    },
-    {
-      "contestant": "Farrah Moan",
-      "age": "23",
-      "hometown": "Las Vegas, Nevada",
-      "ranking": "8th"
-    },
-    {
-      "contestant": "Aja",
-      "age": "22",
-      "hometown": "Brooklyn, New York",
-      "ranking": "9th"
-    },
-    {
-      "contestant": "Cynthia Lee Fontaine",
-      "age": "34",
-      "hometown": "Austin, Texas",
-      "ranking": "10th"
-    },
-    {
-      "contestant": "Eureka[r]",
-      "age": "25",
-      "hometown": "Johnson City, Tennessee",
-      "ranking": "11th[s]"
-    },
-    {
-      "contestant": "Charlie Hides",
-      "age": "52",
-      "hometown": "London, England, UK",
-      "ranking": "12th"
-    },
-    {
-      "contestant": "Kimora Blac",
-      "age": "28",
-      "hometown": "Las Vegas, Nevada",
-      "ranking": "13th"
-    },
-    {
-      "contestant": "Jaymes Mansfield",
-      "age": "26",
-      "hometown": "Milwaukee, Wisconsin",
-      "ranking": "14th"
-    }
-  ],
-  "Season 10": [
-    {
-      "contestant": "Aquaria",
-      "age": "21",
-      "hometown": "Brooklyn, New York",
-      "ranking": "Winner"
-    },
-    {
-      "contestant": "Eureka[r]",
-      "age": "27",
-      "hometown": "Johnson City, Tennessee",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Kameron Michaels",
-      "age": "31",
-      "hometown": "Nashville, Tennessee",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Asia O'Hara",
-      "age": "35",
-      "hometown": "Dallas, Texas",
-      "ranking": "4th"
-    },
-    {
-      "contestant": "Miz Cracker",
-      "age": "33",
-      "hometown": "Harlem, New York",
-      "ranking": "5th"
-    },
-    {
-      "contestant": "Monét X Change",
-      "age": "27",
-      "hometown": "The Bronx, New York",
-      "ranking": "6th"
-    },
-    {
-      "contestant": "The Vixen",
-      "age": "26",
-      "hometown": "Chicago, Illinois",
-      "ranking": "7th"
-    },
-    {
-      "contestant": "Monique Heart",
-      "age": "31",
-      "hometown": "Kansas City, Missouri",
-      "ranking": "8th"
-    },
-    {
-      "contestant": "Blair St. Clair",
-      "age": "22",
-      "hometown": "Indianapolis, Indiana",
-      "ranking": "9th"
-    },
-    {
-      "contestant": "Mayhem Miller",
-      "age": "35",
-      "hometown": "Riverside, California",
-      "ranking": "10th"
-    },
-    {
-      "contestant": "Dusty Ray Bottoms",
-      "age": "29",
-      "hometown": "New York City, New York",
-      "ranking": "11th"
-    },
-    {
-      "contestant": "Yuhua Hamasaki",
-      "age": "27",
-      "hometown": "New York City, New York",
-      "ranking": "12th"
-    },
-    {
-      "contestant": "Kalorie Karbdashian Williams",
-      "age": "27",
-      "hometown": "Albuquerque, New Mexico",
-      "ranking": "13th"
-    },
-    {
-      "contestant": "Vanessa Vanjie Mateo",
-      "age": "25",
-      "hometown": "Tampa, Florida",
-      "ranking": "14th"
-    }
-  ],
-  "Season 11": [
-    {
-      "contestant": "Yvie Oddly",
-      "age": "24",
-      "hometown": "Denver, Colorado",
-      "ranking": "Winner"
-    },
-    {
-      "contestant": "Brooke Lynn Hytes",
-      "age": "32",
-      "hometown": "Nashville, Tennessee [t]",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "A'keria C. Davenport[u]",
-      "age": "30",
-      "hometown": "Dallas, Texas",
-      "ranking": "3rd/4th"
-    },
-    {
-      "contestant": "Silky Nutmeg Ganache",
-      "age": "28",
-      "hometown": "Chicago, Illinois",
-      "ranking": "3rd/4th"
-    },
-    {
-      "contestant": "Vanessa Vanjie Mateo",
-      "age": "26",
-      "hometown": "Los Angeles, California",
-      "ranking": "5th"
-    },
-    {
-      "contestant": "Nina West",
-      "age": "39",
-      "hometown": "Columbus, Ohio",
-      "ranking": "6th"
-    },
-    {
-      "contestant": "Shuga Cain",
-      "age": "40",
-      "hometown": "New York City, New York",
-      "ranking": "7th"
-    },
-    {
-      "contestant": "Plastique Tiara",
-      "age": "21",
-      "hometown": "Dallas, Texas[v]",
-      "ranking": "8th"
-    },
-    {
-      "contestant": "Ra'Jah O'Hara[w]",
-      "age": "33",
-      "hometown": "Dallas, Texas",
-      "ranking": "9th"
-    },
-    {
-      "contestant": "Scarlet Envy",
-      "age": "26",
-      "hometown": "New York City, New York",
-      "ranking": "10th"
-    },
-    {
-      "contestant": "Ariel Versace",
-      "age": "26",
-      "hometown": "Cherry Hill, New Jersey",
-      "ranking": "11th"
-    },
-    {
-      "contestant": "Mercedes Iman Diamond",
-      "age": "31",
-      "hometown": "Minneapolis, Minnesota [x]",
-      "ranking": "12th"
-    },
-    {
-      "contestant": "Honey Davenport",
-      "age": "32",
-      "hometown": "New York City, New York",
-      "ranking": "13th"
-    },
-    {
-      "contestant": "Kahanna Montrese",
-      "age": "25",
-      "hometown": "Las Vegas, Nevada",
-      "ranking": "14th"
-    },
-    {
-      "contestant": "Soju",
-      "age": "27",
-      "hometown": "Chicago, Illinois[y]",
-      "ranking": "15th"
-    }
-  ],
-  "Season 12": [
-    {
-      "contestant": "Jaida Essence Hall",
-      "age": "32",
-      "hometown": "Milwaukee, Wisconsin",
-      "ranking": "Winner"
-    },
-    {
-      "contestant": "Crystal Methyd",
-      "age": "28",
-      "hometown": "Springfield, Missouri",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Gigi Goode",
-      "age": "21",
-      "hometown": "Los Angeles, California",
-      "ranking": "Runner-up"
-    },
-    {
-      "contestant": "Sherry Pie",
-      "age": "27",
-      "hometown": "New York City, New York",
-      "ranking": "Disqualified[z]"
-    },
-    {
-      "contestant": "Jackie Cox",
-      "age": "34",
-      "hometown": "New York City, New York [aa]",
-      "ranking": "5th"
-    },
-    {
-      "contestant": "Heidi N Closet",
-      "age": "24",
-      "hometown": "Ramseur, North Carolina",
-      "ranking": "6th"
-    },
-    {
-      "contestant": "Widow Von'Du",
-      "age": "30",
-      "hometown": "Kansas City, Missouri",
-      "ranking": "7th"
-    },
-    {
-      "contestant": "Jan[ab]",
-      "age": "26",
-      "hometown": "New York City, New York",
-      "ranking": "8th"
-    },
-    {
-      "contestant": "Brita[ac]",
-      "age": "34",
-      "hometown": "New York City, New York",
-      "ranking": "9th"
-    },
-    {
-      "contestant": "Aiden Zhane",
-      "age": "29",
-      "hometown": "Acworth, Georgia",
-      "ranking": "10th"
-    },
-    {
-      "contestant": "Nicky Doll",
-      "age": "28",
-      "hometown": "New York City, New York [ad]",
-      "ranking": "11th"
-    },
-    {
-      "contestant": "Rock M. Sakura",
-      "age": "28",
-      "hometown": "San Francisco, California",
-      "ranking": "12th"
-    },
-    {
-      "contestant": "Dahlia Sin",
-      "age": "28",
-      "hometown": "Los Angeles, California",
-      "ranking": "13th"
-    }
-  ],
-  "Season 13": [
-    {
-      "contestant": "Denali[ae]",
-      "age": "28",
-      "hometown": "Chicago, Illinois [af]",
-      "ranking": "TBA"
-    },
-    {
-      "contestant": "Elliott with 2 Ts[ag]",
-      "age": "26",
-      "hometown": "Las Vegas, Nevada",
-      "ranking": "TBA"
-    },
-    {
-      "contestant": "Gottmik",
-      "age": "23",
-      "hometown": "Los Angeles, California",
-      "ranking": "TBA"
-    },
-    {
-      "contestant": "Kandy Muse",
-      "age": "25",
-      "hometown": "New York City, New York",
-      "ranking": "TBA"
-    },
-    {
-      "contestant": "Olivia Lux",
-      "age": "26",
-      "hometown": "Brooklyn, New York",
-      "ranking": "TBA"
-    },
-    {
-      "contestant": "Rosé",
-      "age": "31",
-      "hometown": "New York City, New York",
-      "ranking": "TBA"
-    },
-    {
-      "contestant": "Symone",
-      "age": "25",
-      "hometown": "Los Angeles, California",
-      "ranking": "TBA"
-    },
-    {
-      "contestant": "Tina Burner",
-      "age": "39",
-      "hometown": "New York City, New York",
-      "ranking": "TBA"
-    },
-    {
-      "contestant": "Utica Queen",
-      "age": "25",
-      "hometown": "Utica, Minnesota",
-      "ranking": "TBA"
-    },
-    {
-      "contestant": "LaLa Ri",
-      "age": "30",
-      "hometown": "Atlanta, Georgia",
-      "ranking": "10th"
-    },
-    {
-      "contestant": "Tamisha Iman",
-      "age": "49",
-      "hometown": "Atlanta, Georgia",
-      "ranking": "11th"
-    },
-    {
-      "contestant": "Joey Jay",
-      "age": "30",
-      "hometown": "Phoenix, Arizona",
-      "ranking": "12th"
-    },
-    {
-      "contestant": "Kahmora Hall",
-      "age": "28",
-      "hometown": "Chicago, Illinois",
-      "ranking": "13th"
-    }
-  ]
+  "Season 1": {
+    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_1)",
+    "contestants": [
+      {
+        "contestant": "BeBe Zahara Benet",
+        "contestantLink": "https://en.wikipedia.org/wiki/BeBe_Zahara_Benet",
+        "age": "28",
+        "hometown": "Minneapolis, Minnesota [a]",
+        "ranking": "Winner"
+      },
+      {
+        "contestant": "Nina Flowers",
+        "contestantLink": "https://en.wikipedia.org/wiki/Nina_Flowers",
+        "age": "34",
+        "hometown": "Denver, Colorado [b]",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Rebecca Glasscock",
+        "age": "26",
+        "hometown": "Fort Lauderdale, Florida",
+        "ranking": "3rd"
+      },
+      {
+        "contestant": "Shannel",
+        "contestantLink": "https://en.wikipedia.org/wiki/Shannel",
+        "age": "26",
+        "hometown": "Las Vegas, Nevada",
+        "ranking": "4th"
+      },
+      {
+        "contestant": "Ongina",
+        "contestantLink": "https://en.wikipedia.org/wiki/Ongina_(drag_queen)",
+        "age": "26",
+        "hometown": "Los Angeles, California",
+        "ranking": "5th"
+      },
+      {
+        "contestant": "Jade[c]",
+        "contestantLink": "https://en.wikipedia.org/wiki/List_of_RuPaul%27s_Drag_Race_contestants#cite_note-6",
+        "age": "32",
+        "hometown": "Chicago, Illinois",
+        "ranking": "6th"
+      },
+      {
+        "contestant": "Akashia",
+        "age": "32",
+        "hometown": "Cleveland, Ohio",
+        "ranking": "7th"
+      },
+      {
+        "contestant": "Tammie Brown",
+        "contestantLink": "https://en.wikipedia.org/wiki/Tammie_Brown",
+        "age": "28",
+        "hometown": "Los Angeles, California",
+        "ranking": "8th"
+      },
+      {
+        "contestant": "Victoria \"Porkchop\" Parker",
+        "contestantLink": "https://en.wikipedia.org/wiki/Victoria_%22Porkchop%22_Parker",
+        "age": "39",
+        "hometown": "Raleigh, North Carolina",
+        "ranking": "9th"
+      }
+    ]
+  },
+  "Season 2": {
+    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_2)",
+    "contestants": [
+      {
+        "contestant": "Tyra Sanchez",
+        "contestantLink": "https://en.wikipedia.org/wiki/Tyra_Sanchez",
+        "age": "21",
+        "hometown": "Orlando, Florida",
+        "ranking": "Winner"
+      },
+      {
+        "contestant": "Raven",
+        "contestantLink": "https://en.wikipedia.org/wiki/Raven_(drag_queen)",
+        "age": "30",
+        "hometown": "Riverside, California",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Jujubee",
+        "contestantLink": "https://en.wikipedia.org/wiki/Jujubee_(drag_queen)",
+        "age": "25",
+        "hometown": "Boston, Massachusetts",
+        "ranking": "3rd"
+      },
+      {
+        "contestant": "Tatianna",
+        "contestantLink": "https://en.wikipedia.org/wiki/Tatianna",
+        "age": "21",
+        "hometown": "Falls Church, Virginia",
+        "ranking": "4th"
+      },
+      {
+        "contestant": "Pandora Boxx",
+        "contestantLink": "https://en.wikipedia.org/wiki/Pandora_Boxx",
+        "age": "37",
+        "hometown": "Rochester, New York",
+        "ranking": "5th"
+      },
+      {
+        "contestant": "Jessica Wild",
+        "contestantLink": "https://en.wikipedia.org/wiki/Jessica_Wild",
+        "age": "29",
+        "hometown": "San Juan, Puerto Rico",
+        "ranking": "6th"
+      },
+      {
+        "contestant": "Sahara Davenport†",
+        "contestantLink": "https://en.wikipedia.org/wiki/Sahara_Davenport",
+        "age": "25",
+        "hometown": "New York City, New York",
+        "ranking": "7th"
+      },
+      {
+        "contestant": "Morgan McMichaels",
+        "contestantLink": "https://en.wikipedia.org/wiki/Morgan_McMichaels",
+        "age": "28",
+        "hometown": "Mira Loma, California",
+        "ranking": "8th"
+      },
+      {
+        "contestant": "Sonique",
+        "contestantLink": "https://en.wikipedia.org/wiki/Sonique_(drag_queen)",
+        "age": "26",
+        "hometown": "Atlanta, Georgia",
+        "ranking": "9th"
+      },
+      {
+        "contestant": "Mystique Summers Madison",
+        "age": "25",
+        "hometown": "Chicago, Illinois",
+        "ranking": "10th"
+      },
+      {
+        "contestant": "Nicole Paige Brooks",
+        "age": "36",
+        "hometown": "Atlanta, Georgia",
+        "ranking": "11th"
+      },
+      {
+        "contestant": "Shangela",
+        "contestantLink": "https://en.wikipedia.org/wiki/Shangela",
+        "age": "28",
+        "hometown": "Paris, Texas",
+        "ranking": "12th"
+      }
+    ]
+  },
+  "Season 3": {
+    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_3)",
+    "contestants": [
+      {
+        "contestant": "Raja",
+        "contestantLink": "https://en.wikipedia.org/wiki/Sutan_Amrull",
+        "age": "36",
+        "hometown": "Los Angeles, California",
+        "ranking": "Winner"
+      },
+      {
+        "contestant": "Manila Luzon",
+        "contestantLink": "https://en.wikipedia.org/wiki/Manila_Luzon",
+        "age": "28",
+        "hometown": "Cottage Grove, Minnesota",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Alexis Mateo",
+        "contestantLink": "https://en.wikipedia.org/wiki/Alexis_Mateo",
+        "age": "30",
+        "hometown": "Tampa, Florida",
+        "ranking": "3rd"
+      },
+      {
+        "contestant": "Yara Sofia",
+        "contestantLink": "https://en.wikipedia.org/wiki/Yara_Sofia",
+        "age": "26",
+        "hometown": "Manatí, Puerto Rico",
+        "ranking": "4th"
+      },
+      {
+        "contestant": "Carmen Carrera",
+        "contestantLink": "https://en.wikipedia.org/wiki/Carmen_Carrera",
+        "age": "25",
+        "hometown": "Elmwood Park, New Jersey",
+        "ranking": "5th[d]"
+      },
+      {
+        "contestant": "Shangela",
+        "contestantLink": "https://en.wikipedia.org/wiki/Shangela",
+        "age": "29",
+        "hometown": "Paris, Texas",
+        "ranking": "6th"
+      },
+      {
+        "contestant": "Delta Work",
+        "contestantLink": "https://en.wikipedia.org/wiki/Delta_Work",
+        "age": "34",
+        "hometown": "Norwalk, California",
+        "ranking": "7th"
+      },
+      {
+        "contestant": "Stacy Layne Matthews",
+        "age": "25",
+        "hometown": "Back Swamp, North Carolina",
+        "ranking": "8th"
+      },
+      {
+        "contestant": "Mariah[e]",
+        "contestantLink": "https://en.wikipedia.org/wiki/Mariah_Paris_Balenciaga",
+        "age": "29",
+        "hometown": "Atlanta, Georgia",
+        "ranking": "9th"
+      },
+      {
+        "contestant": "India Ferrah",
+        "contestantLink": "https://en.wikipedia.org/wiki/India_Ferrah",
+        "age": "23",
+        "hometown": "Dayton, Ohio",
+        "ranking": "10th"
+      },
+      {
+        "contestant": "Mimi Imfurst",
+        "contestantLink": "https://en.wikipedia.org/wiki/Mimi_Imfurst",
+        "age": "27",
+        "hometown": "New York, New York",
+        "ranking": "11th"
+      },
+      {
+        "contestant": "Phoenix",
+        "age": "29",
+        "hometown": "Atlanta, Georgia",
+        "ranking": "12th"
+      },
+      {
+        "contestant": "Venus D-Lite",
+        "contestantLink": "https://en.wikipedia.org/wiki/Venus_D_Lite",
+        "age": "26",
+        "hometown": "Los Angeles, California",
+        "ranking": "13th"
+      }
+    ]
+  },
+  "Season 4": {
+    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_4)",
+    "contestants": [
+      {
+        "contestant": "Sharon Needles",
+        "contestantLink": "https://en.wikipedia.org/wiki/Sharon_Needles",
+        "age": "29",
+        "hometown": "Pittsburgh, Pennsylvania",
+        "ranking": "Winner"
+      },
+      {
+        "contestant": "Chad Michaels",
+        "contestantLink": "https://en.wikipedia.org/wiki/Chad_Michaels",
+        "age": "40",
+        "hometown": "San Diego, California",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Phi Phi O'Hara",
+        "contestantLink": "https://en.wikipedia.org/wiki/Phi_Phi_O%27Hara",
+        "age": "25",
+        "hometown": "Chicago, Illinois",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Latrice Royale",
+        "contestantLink": "https://en.wikipedia.org/wiki/Latrice_Royale",
+        "age": "39",
+        "hometown": "Miami Beach, Florida",
+        "ranking": "4th"
+      },
+      {
+        "contestant": "Kenya Michaels",
+        "age": "21",
+        "hometown": "Dorado, Puerto Rico",
+        "ranking": "5th[f]"
+      },
+      {
+        "contestant": "DiDa Ritz",
+        "age": "25",
+        "hometown": "Chicago, Illinois",
+        "ranking": "6th"
+      },
+      {
+        "contestant": "Willam",
+        "contestantLink": "https://en.wikipedia.org/wiki/Willam_Belli",
+        "age": "29",
+        "hometown": "Los Angeles, California",
+        "ranking": "Disqualified[g]"
+      },
+      {
+        "contestant": "Jiggly Caliente",
+        "contestantLink": "https://en.wikipedia.org/wiki/Jiggly_Caliente",
+        "age": "30",
+        "hometown": "Queens, New York",
+        "ranking": "7th"
+      },
+      {
+        "contestant": "Milan",
+        "age": "36",
+        "hometown": "Florence, South Carolina",
+        "ranking": "8th"
+      },
+      {
+        "contestant": "Madame LaQueer",
+        "age": "29",
+        "hometown": "Carolina, Puerto Rico",
+        "ranking": "9th"
+      },
+      {
+        "contestant": "The Princess",
+        "age": "32",
+        "hometown": "Chicago, Illinois",
+        "ranking": "10th"
+      },
+      {
+        "contestant": "Lashauwn Beyond",
+        "age": "21",
+        "hometown": "Fort Lauderdale, Florida",
+        "ranking": "11th"
+      },
+      {
+        "contestant": "Alisa Summers",
+        "age": "23",
+        "hometown": "Tampa, Florida",
+        "ranking": "12th"
+      }
+    ]
+  },
+  "Season 5": {
+    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_5)",
+    "contestants": [
+      {
+        "contestant": "Jinkx Monsoon",
+        "contestantLink": "https://en.wikipedia.org/wiki/Jinkx_Monsoon",
+        "age": "24",
+        "hometown": "Seattle, Washington",
+        "ranking": "Winner"
+      },
+      {
+        "contestant": "Alaska[h]",
+        "contestantLink": "https://en.wikipedia.org/wiki/Alaska_Thunderfuck",
+        "age": "27",
+        "hometown": "Pittsburgh, Pennsylvania",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Roxxxy Andrews",
+        "contestantLink": "https://en.wikipedia.org/wiki/Roxxxy_Andrews",
+        "age": "28",
+        "hometown": "Orlando, Florida",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Detox[i]",
+        "contestantLink": "https://en.wikipedia.org/wiki/Detox_Icunt",
+        "age": "27",
+        "hometown": "Los Angeles, California",
+        "ranking": "4th"
+      },
+      {
+        "contestant": "Coco Montrese",
+        "contestantLink": "https://en.wikipedia.org/wiki/Coco_Montrese",
+        "age": "37",
+        "hometown": "Las Vegas, Nevada",
+        "ranking": "5th"
+      },
+      {
+        "contestant": "Alyssa Edwards",
+        "contestantLink": "https://en.wikipedia.org/wiki/Alyssa_Edwards",
+        "age": "32",
+        "hometown": "Mesquite, Texas",
+        "ranking": "6th"
+      },
+      {
+        "contestant": "Ivy Winters",
+        "contestantLink": "https://en.wikipedia.org/wiki/Ivy_Winters",
+        "age": "26",
+        "hometown": "New York City, New York",
+        "ranking": "7th"
+      },
+      {
+        "contestant": "Jade Jolie",
+        "contestantLink": "https://en.wikipedia.org/wiki/Jade_Jolie",
+        "age": "25",
+        "hometown": "Gainesville, Florida",
+        "ranking": "8th"
+      },
+      {
+        "contestant": "Lineysha Sparx",
+        "age": "24",
+        "hometown": "San Juan, Puerto Rico",
+        "ranking": "9th"
+      },
+      {
+        "contestant": "Vivienne Pinay",
+        "age": "26",
+        "hometown": "New York City, New York",
+        "ranking": "10th/11th"
+      },
+      {
+        "contestant": "Honey Mahogany",
+        "contestantLink": "https://en.wikipedia.org/wiki/Honey_Mahogany",
+        "age": "29",
+        "hometown": "San Francisco, California",
+        "ranking": "10th/11th"
+      },
+      {
+        "contestant": "Monica Beverly Hillz",
+        "contestantLink": "https://en.wikipedia.org/wiki/Monica_Beverly_Hillz",
+        "age": "27",
+        "hometown": "Owensboro, Kentucky",
+        "ranking": "12th"
+      },
+      {
+        "contestant": "Serena ChaCha",
+        "age": "21",
+        "hometown": "Tallahassee, Florida",
+        "ranking": "13th"
+      },
+      {
+        "contestant": "Penny Tration",
+        "age": "39",
+        "hometown": "Cincinnati, Ohio",
+        "ranking": "14th"
+      }
+    ]
+  },
+  "Season 6": {
+    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_6)",
+    "contestants": [
+      {
+        "contestant": "Bianca Del Rio",
+        "contestantLink": "https://en.wikipedia.org/wiki/Bianca_Del_Rio",
+        "age": "37",
+        "hometown": "New Orleans, Louisiana",
+        "ranking": "Winner"
+      },
+      {
+        "contestant": "Adore Delano",
+        "contestantLink": "https://en.wikipedia.org/wiki/Adore_Delano",
+        "age": "23",
+        "hometown": "Azusa, California",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Courtney Act",
+        "contestantLink": "https://en.wikipedia.org/wiki/Courtney_Act",
+        "age": "31",
+        "hometown": "West Hollywood, California [j]",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Darienne Lake[k]",
+        "contestantLink": "https://en.wikipedia.org/wiki/List_of_RuPaul%27s_Drag_Race_contestants#cite_note-14",
+        "age": "41",
+        "hometown": "Rochester, New York",
+        "ranking": "4th"
+      },
+      {
+        "contestant": "BenDeLaCreme",
+        "contestantLink": "https://en.wikipedia.org/wiki/BenDeLaCreme",
+        "age": "31",
+        "hometown": "Seattle, Washington",
+        "ranking": "5th"
+      },
+      {
+        "contestant": "Joslyn Fox",
+        "age": "26",
+        "hometown": "Worcester, Massachusetts",
+        "ranking": "6th"
+      },
+      {
+        "contestant": "Trinity K. Bonet[l]",
+        "contestantLink": "https://en.wikipedia.org/wiki/Trinity_K._Bonet",
+        "age": "22",
+        "hometown": "Atlanta, Georgia",
+        "ranking": "7th"
+      },
+      {
+        "contestant": "Laganja Estranja",
+        "contestantLink": "https://en.wikipedia.org/wiki/Laganja_Estranja",
+        "age": "24",
+        "hometown": "Van Nuys, California",
+        "ranking": "8th"
+      },
+      {
+        "contestant": "Milk",
+        "contestantLink": "https://en.wikipedia.org/wiki/Milk_(drag_queen)",
+        "age": "25",
+        "hometown": "New York, New York",
+        "ranking": "9th"
+      },
+      {
+        "contestant": "Gia Gunn",
+        "contestantLink": "https://en.wikipedia.org/wiki/Gia_Gunn",
+        "age": "23",
+        "hometown": "Chicago, Illinois",
+        "ranking": "10th"
+      },
+      {
+        "contestant": "April Carrión",
+        "age": "24",
+        "hometown": "Guaynabo, Puerto Rico",
+        "ranking": "11th"
+      },
+      {
+        "contestant": "Vivacious",
+        "age": "40",
+        "hometown": "New York City, New York",
+        "ranking": "12th"
+      },
+      {
+        "contestant": "Magnolia Crawford",
+        "age": "27",
+        "hometown": "Seattle, Washington",
+        "ranking": "13th/14th[m]"
+      },
+      {
+        "contestant": "Kelly Mantle",
+        "contestantLink": "https://en.wikipedia.org/wiki/Kelly_Mantle",
+        "age": "37",
+        "hometown": "Los Angeles, California",
+        "ranking": "13th/14th[m]"
+      }
+    ]
+  },
+  "Season 7": {
+    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_7)",
+    "contestants": [
+      {
+        "contestant": "Violet Chachki",
+        "contestantLink": "https://en.wikipedia.org/wiki/Violet_Chachki",
+        "age": "22",
+        "hometown": "Atlanta, Georgia",
+        "ranking": "Winner"
+      },
+      {
+        "contestant": "Ginger Minj",
+        "contestantLink": "https://en.wikipedia.org/wiki/Ginger_Minj",
+        "age": "29",
+        "hometown": "Orlando, Florida",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Pearl",
+        "contestantLink": "https://en.wikipedia.org/wiki/Pearl_(drag_queen)",
+        "age": "23",
+        "hometown": "Brooklyn, New York",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Kennedy Davenport",
+        "contestantLink": "https://en.wikipedia.org/wiki/Kennedy_Davenport",
+        "age": "33",
+        "hometown": "Dallas, Texas",
+        "ranking": "4th"
+      },
+      {
+        "contestant": "Katya[n]",
+        "contestantLink": "https://en.wikipedia.org/wiki/Katya_Zamolodchikova",
+        "age": "32",
+        "hometown": "Boston, Massachusetts",
+        "ranking": "5th"
+      },
+      {
+        "contestant": "Trixie Mattel",
+        "contestantLink": "https://en.wikipedia.org/wiki/Trixie_Mattel",
+        "age": "26",
+        "hometown": "Milwaukee, Wisconsin",
+        "ranking": "6th[o]"
+      },
+      {
+        "contestant": "Miss Fame",
+        "contestantLink": "https://en.wikipedia.org/wiki/Miss_Fame",
+        "age": "29",
+        "hometown": "New York City, New York",
+        "ranking": "7th"
+      },
+      {
+        "contestant": "Jaidynn Diore Fierce",
+        "age": "25",
+        "hometown": "Nashville, Tennessee",
+        "ranking": "8th"
+      },
+      {
+        "contestant": "Max",
+        "age": "22",
+        "hometown": "Hudson, Wisconsin",
+        "ranking": "9th"
+      },
+      {
+        "contestant": "Kandy Ho",
+        "age": "28",
+        "hometown": "Cayey, Puerto Rico",
+        "ranking": "10th"
+      },
+      {
+        "contestant": "Mrs. Kasha Davis",
+        "contestantLink": "https://en.wikipedia.org/wiki/Mrs._Kasha_Davis",
+        "age": "43",
+        "hometown": "Rochester, New York",
+        "ranking": "11th"
+      },
+      {
+        "contestant": "Jasmine Masters",
+        "contestantLink": "https://en.wikipedia.org/wiki/Jasmine_Masters",
+        "age": "37",
+        "hometown": "Los Angeles, California",
+        "ranking": "12th"
+      },
+      {
+        "contestant": "Sasha Belle",
+        "age": "28",
+        "hometown": "Iowa City, Iowa",
+        "ranking": "13th"
+      },
+      {
+        "contestant": "Tempest DuJour",
+        "age": "46",
+        "hometown": "Tucson, Arizona",
+        "ranking": "14th"
+      }
+    ]
+  },
+  "Season 8": {
+    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_8)",
+    "contestants": [
+      {
+        "contestant": "Bob the Drag Queen",
+        "contestantLink": "https://en.wikipedia.org/wiki/Bob_the_Drag_Queen",
+        "age": "29",
+        "hometown": "Brooklyn, New York",
+        "ranking": "Winner"
+      },
+      {
+        "contestant": "Kim Chi",
+        "contestantLink": "https://en.wikipedia.org/wiki/Kim_Chi_(drag_queen)",
+        "age": "27",
+        "hometown": "Chicago, Illinois",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Naomi Smalls",
+        "contestantLink": "https://en.wikipedia.org/wiki/Naomi_Smalls",
+        "age": "21",
+        "hometown": "Redlands, California",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Chi Chi DeVayne† [p]",
+        "contestantLink": "https://en.wikipedia.org/wiki/Chi_Chi_DeVayne",
+        "age": "30",
+        "hometown": "Shreveport, Louisiana",
+        "ranking": "4th"
+      },
+      {
+        "contestant": "Derrick Barry",
+        "contestantLink": "https://en.wikipedia.org/wiki/Derrick_Barry",
+        "age": "32",
+        "hometown": "Las Vegas, Nevada",
+        "ranking": "5th"
+      },
+      {
+        "contestant": "Thorgy Thor",
+        "contestantLink": "https://en.wikipedia.org/wiki/Thorgy_Thor",
+        "age": "31",
+        "hometown": "Brooklyn, New York",
+        "ranking": "6th"
+      },
+      {
+        "contestant": "Robbie Turner",
+        "contestantLink": "https://en.wikipedia.org/wiki/Robbie_Turner_(drag_queen)",
+        "age": "33",
+        "hometown": "Seattle, Washington",
+        "ranking": "7th"
+      },
+      {
+        "contestant": "Acid Betty",
+        "contestantLink": "https://en.wikipedia.org/wiki/Acid_Betty",
+        "age": "37",
+        "hometown": "Brooklyn, New York",
+        "ranking": "8th"
+      },
+      {
+        "contestant": "Naysha Lopez",
+        "age": "31",
+        "hometown": "Chicago, Illinois",
+        "ranking": "9th[q]"
+      },
+      {
+        "contestant": "Cynthia Lee Fontaine",
+        "contestantLink": "https://en.wikipedia.org/wiki/Cynthia_Lee_Fontaine",
+        "age": "34",
+        "hometown": "Austin, Texas",
+        "ranking": "10th"
+      },
+      {
+        "contestant": "Dax ExclamationPoint",
+        "age": "31",
+        "hometown": "Savannah, Georgia",
+        "ranking": "11th/12th"
+      },
+      {
+        "contestant": "Laila McQueen",
+        "age": "22",
+        "hometown": "Gloucester, Massachusetts",
+        "ranking": "11th/12th"
+      }
+    ]
+  },
+  "Season 9": {
+    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_9)",
+    "contestants": [
+      {
+        "contestant": "Sasha Velour",
+        "contestantLink": "https://en.wikipedia.org/wiki/Sasha_Velour",
+        "age": "29",
+        "hometown": "Brooklyn, New York",
+        "ranking": "Winner"
+      },
+      {
+        "contestant": "Peppermint",
+        "contestantLink": "https://en.wikipedia.org/wiki/Peppermint_(drag_queen)",
+        "age": "37",
+        "hometown": "New York City, New York",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Shea Couleé",
+        "contestantLink": "https://en.wikipedia.org/wiki/Shea_Coule%C3%A9",
+        "age": "27",
+        "hometown": "Chicago, Illinois",
+        "ranking": "3rd/4th"
+      },
+      {
+        "contestant": "Trinity \"The Tuck\" Taylor",
+        "contestantLink": "https://en.wikipedia.org/wiki/Trinity_Taylor",
+        "age": "31",
+        "hometown": "Orlando, Florida",
+        "ranking": "3rd/4th"
+      },
+      {
+        "contestant": "Alexis Michelle",
+        "contestantLink": "https://en.wikipedia.org/wiki/Alexis_Michelle",
+        "age": "33",
+        "hometown": "New York City, New York",
+        "ranking": "5th"
+      },
+      {
+        "contestant": "Nina Bo'nina Brown",
+        "contestantLink": "https://en.wikipedia.org/wiki/Nina_Bo%27nina_Brown",
+        "age": "34",
+        "hometown": "Georgetown, South Carolina",
+        "ranking": "6th"
+      },
+      {
+        "contestant": "Valentina",
+        "contestantLink": "https://en.wikipedia.org/wiki/Valentina_(drag_queen)",
+        "age": "25",
+        "hometown": "Los Angeles, California",
+        "ranking": "7th"
+      },
+      {
+        "contestant": "Farrah Moan",
+        "contestantLink": "https://en.wikipedia.org/wiki/Farrah_Moan",
+        "age": "23",
+        "hometown": "Las Vegas, Nevada",
+        "ranking": "8th"
+      },
+      {
+        "contestant": "Aja",
+        "contestantLink": "https://en.wikipedia.org/wiki/Aja_(entertainer)",
+        "age": "22",
+        "hometown": "Brooklyn, New York",
+        "ranking": "9th"
+      },
+      {
+        "contestant": "Cynthia Lee Fontaine",
+        "contestantLink": "https://en.wikipedia.org/wiki/Cynthia_Lee_Fontaine",
+        "age": "34",
+        "hometown": "Austin, Texas",
+        "ranking": "10th"
+      },
+      {
+        "contestant": "Eureka[r]",
+        "contestantLink": "https://en.wikipedia.org/wiki/Eureka_O%27Hara",
+        "age": "25",
+        "hometown": "Johnson City, Tennessee",
+        "ranking": "11th[s]"
+      },
+      {
+        "contestant": "Charlie Hides",
+        "contestantLink": "https://en.wikipedia.org/wiki/Charlie_Hides",
+        "age": "52",
+        "hometown": "London, England, UK",
+        "ranking": "12th"
+      },
+      {
+        "contestant": "Kimora Blac",
+        "contestantLink": "https://en.wikipedia.org/wiki/Kimora_Blac",
+        "age": "28",
+        "hometown": "Las Vegas, Nevada",
+        "ranking": "13th"
+      },
+      {
+        "contestant": "Jaymes Mansfield",
+        "contestantLink": "https://en.wikipedia.org/wiki/Jaymes_Mansfield",
+        "age": "26",
+        "hometown": "Milwaukee, Wisconsin",
+        "ranking": "14th"
+      }
+    ]
+  },
+  "Season 10": {
+    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_10)",
+    "contestants": [
+      {
+        "contestant": "Aquaria",
+        "contestantLink": "https://en.wikipedia.org/wiki/Aquaria_(drag_queen)",
+        "age": "21",
+        "hometown": "Brooklyn, New York",
+        "ranking": "Winner"
+      },
+      {
+        "contestant": "Eureka[r]",
+        "contestantLink": "https://en.wikipedia.org/wiki/Eureka_O%27Hara",
+        "age": "27",
+        "hometown": "Johnson City, Tennessee",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Kameron Michaels",
+        "contestantLink": "https://en.wikipedia.org/wiki/Kameron_Michaels",
+        "age": "31",
+        "hometown": "Nashville, Tennessee",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Asia O'Hara",
+        "contestantLink": "https://en.wikipedia.org/wiki/Asia_O%27Hara",
+        "age": "35",
+        "hometown": "Dallas, Texas",
+        "ranking": "4th"
+      },
+      {
+        "contestant": "Miz Cracker",
+        "contestantLink": "https://en.wikipedia.org/wiki/Miz_Cracker",
+        "age": "33",
+        "hometown": "Harlem, New York",
+        "ranking": "5th"
+      },
+      {
+        "contestant": "Monét X Change",
+        "contestantLink": "https://en.wikipedia.org/wiki/Mon%C3%A9t_X_Change",
+        "age": "27",
+        "hometown": "The Bronx, New York",
+        "ranking": "6th"
+      },
+      {
+        "contestant": "The Vixen",
+        "contestantLink": "https://en.wikipedia.org/wiki/The_Vixen_(drag_queen)",
+        "age": "26",
+        "hometown": "Chicago, Illinois",
+        "ranking": "7th"
+      },
+      {
+        "contestant": "Monique Heart",
+        "contestantLink": "https://en.wikipedia.org/wiki/Monique_Heart",
+        "age": "31",
+        "hometown": "Kansas City, Missouri",
+        "ranking": "8th"
+      },
+      {
+        "contestant": "Blair St. Clair",
+        "contestantLink": "https://en.wikipedia.org/wiki/Blair_St._Clair",
+        "age": "22",
+        "hometown": "Indianapolis, Indiana",
+        "ranking": "9th"
+      },
+      {
+        "contestant": "Mayhem Miller",
+        "contestantLink": "https://en.wikipedia.org/wiki/Mayhem_Miller_(drag_queen)",
+        "age": "35",
+        "hometown": "Riverside, California",
+        "ranking": "10th"
+      },
+      {
+        "contestant": "Dusty Ray Bottoms",
+        "age": "29",
+        "hometown": "New York City, New York",
+        "ranking": "11th"
+      },
+      {
+        "contestant": "Yuhua Hamasaki",
+        "contestantLink": "https://en.wikipedia.org/wiki/Yuhua_Hamasaki",
+        "age": "27",
+        "hometown": "New York City, New York",
+        "ranking": "12th"
+      },
+      {
+        "contestant": "Kalorie Karbdashian Williams",
+        "age": "27",
+        "hometown": "Albuquerque, New Mexico",
+        "ranking": "13th"
+      },
+      {
+        "contestant": "Vanessa Vanjie Mateo",
+        "contestantLink": "https://en.wikipedia.org/wiki/Vanessa_Vanjie_Mateo",
+        "age": "25",
+        "hometown": "Tampa, Florida",
+        "ranking": "14th"
+      }
+    ]
+  },
+  "Season 11": {
+    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_11)",
+    "contestants": [
+      {
+        "contestant": "Yvie Oddly",
+        "contestantLink": "https://en.wikipedia.org/wiki/Yvie_Oddly",
+        "age": "24",
+        "hometown": "Denver, Colorado",
+        "ranking": "Winner"
+      },
+      {
+        "contestant": "Brooke Lynn Hytes",
+        "contestantLink": "https://en.wikipedia.org/wiki/Brooke_Lynn_Hytes",
+        "age": "32",
+        "hometown": "Nashville, Tennessee [t]",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "A'keria C. Davenport[u]",
+        "contestantLink": "https://en.wikipedia.org/wiki/A%27keria_Davenport",
+        "age": "30",
+        "hometown": "Dallas, Texas",
+        "ranking": "3rd/4th"
+      },
+      {
+        "contestant": "Silky Nutmeg Ganache",
+        "contestantLink": "https://en.wikipedia.org/wiki/Silky_Nutmeg_Ganache",
+        "age": "28",
+        "hometown": "Chicago, Illinois",
+        "ranking": "3rd/4th"
+      },
+      {
+        "contestant": "Vanessa Vanjie Mateo",
+        "contestantLink": "https://en.wikipedia.org/wiki/Vanessa_Vanjie_Mateo",
+        "age": "26",
+        "hometown": "Los Angeles, California",
+        "ranking": "5th"
+      },
+      {
+        "contestant": "Nina West",
+        "contestantLink": "https://en.wikipedia.org/wiki/Nina_West",
+        "age": "39",
+        "hometown": "Columbus, Ohio",
+        "ranking": "6th"
+      },
+      {
+        "contestant": "Shuga Cain",
+        "contestantLink": "https://en.wikipedia.org/wiki/Shuga_Cain",
+        "age": "40",
+        "hometown": "New York City, New York",
+        "ranking": "7th"
+      },
+      {
+        "contestant": "Plastique Tiara",
+        "age": "21",
+        "hometown": "Dallas, Texas[v]",
+        "ranking": "8th"
+      },
+      {
+        "contestant": "Ra'Jah O'Hara[w]",
+        "contestantLink": "https://en.wikipedia.org/wiki/List_of_RuPaul%27s_Drag_Race_contestants#cite_note-26",
+        "age": "33",
+        "hometown": "Dallas, Texas",
+        "ranking": "9th"
+      },
+      {
+        "contestant": "Scarlet Envy",
+        "contestantLink": "https://en.wikipedia.org/wiki/Scarlet_Envy",
+        "age": "26",
+        "hometown": "New York City, New York",
+        "ranking": "10th"
+      },
+      {
+        "contestant": "Ariel Versace",
+        "age": "26",
+        "hometown": "Cherry Hill, New Jersey",
+        "ranking": "11th"
+      },
+      {
+        "contestant": "Mercedes Iman Diamond",
+        "age": "31",
+        "hometown": "Minneapolis, Minnesota [x]",
+        "ranking": "12th"
+      },
+      {
+        "contestant": "Honey Davenport",
+        "contestantLink": "https://en.wikipedia.org/wiki/Honey_Davenport",
+        "age": "32",
+        "hometown": "New York City, New York",
+        "ranking": "13th"
+      },
+      {
+        "contestant": "Kahanna Montrese",
+        "age": "25",
+        "hometown": "Las Vegas, Nevada",
+        "ranking": "14th"
+      },
+      {
+        "contestant": "Soju",
+        "contestantLink": "https://en.wikipedia.org/wiki/Soju_(drag_queen)",
+        "age": "27",
+        "hometown": "Chicago, Illinois[y]",
+        "ranking": "15th"
+      }
+    ]
+  },
+  "Season 12": {
+    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_12)",
+    "contestants": [
+      {
+        "contestant": "Jaida Essence Hall",
+        "contestantLink": "https://en.wikipedia.org/wiki/Jaida_Essence_Hall_(drag_queen)",
+        "age": "32",
+        "hometown": "Milwaukee, Wisconsin",
+        "ranking": "Winner"
+      },
+      {
+        "contestant": "Crystal Methyd",
+        "contestantLink": "https://en.wikipedia.org/wiki/Crystal_Methyd",
+        "age": "28",
+        "hometown": "Springfield, Missouri",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Gigi Goode",
+        "contestantLink": "https://en.wikipedia.org/wiki/Gigi_Goode",
+        "age": "21",
+        "hometown": "Los Angeles, California",
+        "ranking": "Runner-up"
+      },
+      {
+        "contestant": "Sherry Pie",
+        "age": "27",
+        "hometown": "New York City, New York",
+        "ranking": "Disqualified[z]"
+      },
+      {
+        "contestant": "Jackie Cox",
+        "contestantLink": "https://en.wikipedia.org/wiki/Jackie_Cox_(drag_queen)",
+        "age": "34",
+        "hometown": "New York City, New York [aa]",
+        "ranking": "5th"
+      },
+      {
+        "contestant": "Heidi N Closet",
+        "contestantLink": "https://en.wikipedia.org/wiki/Heidi_N_Closet",
+        "age": "24",
+        "hometown": "Ramseur, North Carolina",
+        "ranking": "6th"
+      },
+      {
+        "contestant": "Widow Von'Du",
+        "age": "30",
+        "hometown": "Kansas City, Missouri",
+        "ranking": "7th"
+      },
+      {
+        "contestant": "Jan[ab]",
+        "contestantLink": "https://en.wikipedia.org/wiki/Jan_Sport",
+        "age": "26",
+        "hometown": "New York City, New York",
+        "ranking": "8th"
+      },
+      {
+        "contestant": "Brita[ac]",
+        "contestantLink": "https://en.wikipedia.org/wiki/Brita_Filter",
+        "age": "34",
+        "hometown": "New York City, New York",
+        "ranking": "9th"
+      },
+      {
+        "contestant": "Aiden Zhane",
+        "age": "29",
+        "hometown": "Acworth, Georgia",
+        "ranking": "10th"
+      },
+      {
+        "contestant": "Nicky Doll",
+        "contestantLink": "https://en.wikipedia.org/wiki/Nicky_Doll",
+        "age": "28",
+        "hometown": "New York City, New York [ad]",
+        "ranking": "11th"
+      },
+      {
+        "contestant": "Rock M. Sakura",
+        "age": "28",
+        "hometown": "San Francisco, California",
+        "ranking": "12th"
+      },
+      {
+        "contestant": "Dahlia Sin",
+        "contestantLink": "https://en.wikipedia.org/wiki/Dahlia_Sin",
+        "age": "28",
+        "hometown": "Los Angeles, California",
+        "ranking": "13th"
+      }
+    ]
+  },
+  "Season 13": {
+    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_13)",
+    "contestants": [
+      {
+        "contestant": "Denali[ae]",
+        "contestantLink": "https://en.wikipedia.org/wiki/List_of_RuPaul%27s_Drag_Race_contestants#cite_note-34",
+        "age": "28",
+        "hometown": "Chicago, Illinois [af]",
+        "ranking": "TBA"
+      },
+      {
+        "contestant": "Elliott with 2 Ts[ag]",
+        "contestantLink": "https://en.wikipedia.org/wiki/List_of_RuPaul%27s_Drag_Race_contestants#cite_note-36",
+        "age": "26",
+        "hometown": "Las Vegas, Nevada",
+        "ranking": "TBA"
+      },
+      {
+        "contestant": "Gottmik",
+        "contestantLink": "https://en.wikipedia.org/wiki/Gottmik",
+        "age": "23",
+        "hometown": "Los Angeles, California",
+        "ranking": "TBA"
+      },
+      {
+        "contestant": "Kandy Muse",
+        "age": "25",
+        "hometown": "New York City, New York",
+        "ranking": "TBA"
+      },
+      {
+        "contestant": "Olivia Lux",
+        "age": "26",
+        "hometown": "Brooklyn, New York",
+        "ranking": "TBA"
+      },
+      {
+        "contestant": "Rosé",
+        "age": "31",
+        "hometown": "New York City, New York",
+        "ranking": "TBA"
+      },
+      {
+        "contestant": "Symone",
+        "age": "25",
+        "hometown": "Los Angeles, California",
+        "ranking": "TBA"
+      },
+      {
+        "contestant": "Tina Burner",
+        "contestantLink": "https://en.wikipedia.org/wiki/Tina_Burner",
+        "age": "39",
+        "hometown": "New York City, New York",
+        "ranking": "TBA"
+      },
+      {
+        "contestant": "Utica Queen",
+        "age": "25",
+        "hometown": "Utica, Minnesota",
+        "ranking": "TBA"
+      },
+      {
+        "contestant": "LaLa Ri",
+        "age": "30",
+        "hometown": "Atlanta, Georgia",
+        "ranking": "10th"
+      },
+      {
+        "contestant": "Tamisha Iman",
+        "contestantLink": "https://en.wikipedia.org/wiki/Tamisha_Iman",
+        "age": "49",
+        "hometown": "Atlanta, Georgia",
+        "ranking": "11th"
+      },
+      {
+        "contestant": "Joey Jay",
+        "age": "30",
+        "hometown": "Phoenix, Arizona",
+        "ranking": "12th"
+      },
+      {
+        "contestant": "Kahmora Hall",
+        "age": "28",
+        "hometown": "Chicago, Illinois",
+        "ranking": "13th"
+      }
+    ]
+  }
 }
