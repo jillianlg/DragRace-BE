@@ -4,10 +4,12 @@
       "number": "1",
       "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_All_Stars_(season_1)"
     },
-    "winner": {
-      "name": "Chad Michaels",
-      "link": "https://en.wikipedia.org/wiki/Chad_Michaels"
-    },
+    "winner": [
+      {
+        "name": "Chad Michaels",
+        "link": "https://en.wikipedia.org/wiki/Chad_Michaels"
+      }
+    ],
     "runnerup": [
       {
         "name": "Raven",
@@ -62,10 +64,12 @@
       "number": "2",
       "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_All_Stars_(season_2)"
     },
-    "winner": {
-      "name": "Alaska",
-      "link": "https://en.wikipedia.org/wiki/Alaska_Thunderfuck"
-    },
+    "winner": [
+      {
+        "name": "Alaska",
+        "link": "https://en.wikipedia.org/wiki/Alaska_Thunderfuck"
+      }
+    ],
     "runnerup": [
       {
         "name": "Detox",
@@ -112,10 +116,12 @@
       "number": "3",
       "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_All_Stars_(season_3)"
     },
-    "winner": {
-      "name": "Trixie Mattel",
-      "link": "https://en.wikipedia.org/wiki/Trixie_Mattel"
-    },
+    "winner": [
+      {
+        "name": "Trixie Mattel",
+        "link": "https://en.wikipedia.org/wiki/Trixie_Mattel"
+      }
+    ],
     "runnerup": [
       {
         "name": "Kennedy Davenport",
@@ -158,10 +164,16 @@
       "number": "4",
       "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_All_Stars_(season_4)"
     },
-    "winner": {
-      "name": "Monét X ChangeTrinity the Tuck",
-      "link": "https://en.wikipedia.org/wiki/Mon%C3%A9t_X_Change"
-    },
+    "winner": [
+      {
+        "name": "Monét X Change",
+        "link": "https://en.wikipedia.org/wiki/Mon%C3%A9t_X_Change"
+      },
+      {
+        "name": "Trinity the Tuck",
+        "link": "https://en.wikipedia.org/wiki/Trinity_the_Tuck"
+      }
+    ],
     "runnerup": [
       {
         "name": "Monique Heart",
@@ -204,10 +216,12 @@
       "number": "5",
       "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_All_Stars_(season_5)"
     },
-    "winner": {
-      "name": "Shea Couleé",
-      "link": "https://en.wikipedia.org/wiki/Shea_Coule%C3%A9"
-    },
+    "winner": [
+      {
+        "name": "Shea Couleé",
+        "link": "https://en.wikipedia.org/wiki/Shea_Coule%C3%A9"
+      }
+    ],
     "runnerup": [
       {
         "name": "Jujubee",
