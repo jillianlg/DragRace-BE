@@ -1,6 +1,9 @@
-{
-  "Season 1": {
-    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_1)",
+[
+  {
+    "season": {
+      "number": "1",
+      "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_1)"
+    },
     "contestants": [
       {
         "name": "BeBe Zahara Benet",
@@ -65,8 +68,11 @@
       }
     ]
   },
-  "Season 2": {
-    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_2)",
+  {
+    "season": {
+      "number": "2",
+      "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_2)"
+    },
     "contestants": [
       {
         "name": "Tyra Sanchez",
@@ -152,8 +158,11 @@
       }
     ]
   },
-  "Season 3": {
-    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_3)",
+  {
+    "season": {
+      "number": "3",
+      "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_3)"
+    },
     "contestants": [
       {
         "name": "Raja",
@@ -246,8 +255,11 @@
       }
     ]
   },
-  "Season 4": {
-    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_4)",
+  {
+    "season": {
+      "number": "4",
+      "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_4)"
+    },
     "contestants": [
       {
         "name": "Sharon Needles",
@@ -335,8 +347,11 @@
       }
     ]
   },
-  "Season 5": {
-    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_5)",
+  {
+    "season": {
+      "number": "5",
+      "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_5)"
+    },
     "contestants": [
       {
         "name": "Jinkx Monsoon",
@@ -434,8 +449,11 @@
       }
     ]
   },
-  "Season 6": {
-    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_6)",
+  {
+    "season": {
+      "number": "6",
+      "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_6)"
+    },
     "contestants": [
       {
         "name": "Bianca Del Rio",
@@ -533,8 +551,11 @@
       }
     ]
   },
-  "Season 7": {
-    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_7)",
+  {
+    "season": {
+      "number": "7",
+      "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_7)"
+    },
     "contestants": [
       {
         "name": "Violet Chachki",
@@ -631,8 +652,11 @@
       }
     ]
   },
-  "Season 8": {
-    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_8)",
+  {
+    "season": {
+      "number": "8",
+      "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_8)"
+    },
     "contestants": [
       {
         "name": "Bob the Drag Queen",
@@ -717,8 +741,11 @@
       }
     ]
   },
-  "Season 9": {
-    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_9)",
+  {
+    "season": {
+      "number": "9",
+      "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_9)"
+    },
     "contestants": [
       {
         "name": "Sasha Velour",
@@ -820,8 +847,11 @@
       }
     ]
   },
-  "Season 10": {
-    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_10)",
+  {
+    "season": {
+      "number": "10",
+      "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_10)"
+    },
     "contestants": [
       {
         "name": "Aquaria",
@@ -921,8 +951,11 @@
       }
     ]
   },
-  "Season 11": {
-    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_11)",
+  {
+    "season": {
+      "number": "11",
+      "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_11)"
+    },
     "contestants": [
       {
         "name": "Yvie Oddly",
@@ -1027,8 +1060,11 @@
       }
     ]
   },
-  "Season 12": {
-    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_12)",
+  {
+    "season": {
+      "number": "12",
+      "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_12)"
+    },
     "contestants": [
       {
         "name": "Jaida Essence Hall",
@@ -1119,8 +1155,11 @@
       }
     ]
   },
-  "Season 13": {
-    "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_13)",
+  {
+    "season": {
+      "number": "13",
+      "link": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race_(season_13)"
+    },
     "contestants": [
       {
         "name": "Denali[ae]",
@@ -1207,4 +1246,4 @@
       }
     ]
   }
-}
+]
